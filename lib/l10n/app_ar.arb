@@ -1,0 +1,23 @@
+{
+    "islami" : "اسلامي",
+    "suraName" : "اسم السورة",
+    "ahadeth" : "الاحاديث",
+    "quran" : "القران",
+    "sebha" : "السبحة",
+    "numberOfPraises" : "عدد التسبيحات",
+    "settings" : "الاعدادات",
+    "language" : "اللغة",
+    "arabic" : "العربية",
+    "english" : "الانجليزية",
+    "darkMood" : "الوضع المظلم",
+    "lightMood" : "الوضع المضئ",
+    "theme" : "الوضع ",
+    "elradio" : "الراديو",
+    "radio" : "اذاعة القران الكريم",
+    "sbhanalah" : "سبحان الله",
+    "elhamdLlah" : "الحمد لله",
+    "azkoralah" : "اذكر الله",
+    "@helloWorld": {
+          "description": "The conventional newborn programmer greeting"
+        }
+}

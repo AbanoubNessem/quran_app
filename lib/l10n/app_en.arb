@@ -1,0 +1,23 @@
+{
+    "islami" : "islami",
+    "suraName" : "Sura Namre",
+    "ahadeth" : "Conversations",
+    "quran" : "Quran",
+    "sebha" : "Praise",
+    "settings" : "Settings",
+    "arabic" : "Arabic",
+    "english" : "English",
+    "language" : "Language",
+    "darkMood" : "Dark Mood",
+    "lightMood" : "Light Mood",
+    "theme" : "Theme",
+    "elradio" : "Radio",
+    "numberOfPraises" : "Number of praises",
+    "radio" : "Holy Quran Radio",
+    "sbhanalah" : "How great is our God",
+    "elhamdLlah" : "Thank God",
+    "azkoralah" : "Remember God",
+    "@helloWorld": {
+          "description": "The conventional newborn programmer greeting"
+        }
+}
